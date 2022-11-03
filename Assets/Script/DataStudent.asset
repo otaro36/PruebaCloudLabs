@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ccd49df7cec7a4eb4fa816fd36ee69, type: 3}
+  m_Name: DataStudent
+  m_EditorClassIdentifier: 
+  listData:
+    students:
+    - nombre: Ana
+      apellido: Rojas
+      codigoestudiante: 45546
+      correoinstitucional: ana@colegio.com
+      notaFinal: 3
+      aprobo: 1
+      edad: 23
+    - nombre: Ana
+      apellido: Rojas
+      codigoestudiante: 788345
+      correoinstitucional: ana@colegio.com
+      notaFinal: 5
+      aprobo: 1
+      edad: 45
+    - nombre: luis
+      apellido: ramirez
+      codigoestudiante: 4545
+      correoinstitucional: luis@colegio.com
+      notaFinal: 4.5
+      aprobo: 1
+      edad: 25
+    - nombre: Juan
+      apellido: ramirez
+      codigoestudiante: 45784
+      correoinstitucional: juan@colegio.com
+      notaFinal: 2
+      aprobo: 0
+      edad: 27
+    - nombre: Paola
+      apellido: Martines
+      codigoestudiante: 4568
+      correoinstitucional: paola@colegio.com
+      notaFinal: 4.5
+      aprobo: 1
+      edad: 28
